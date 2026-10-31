@@ -11,7 +11,7 @@
 
 | Deliverable | File Path | Description |
 | :--- | :--- | :--- |
-| **Submission PDF (Ready)** | [`Assignment/XXXX - Ashutosh Kumar Jaiswal - FirstAssignment - ProductEngineer.pdf`](file:///F:/Share_FullStack/Assignment/XXXX%20-%20Ashutosh%20Kumar%20Jaiswal%20-%20FirstAssignment%20-%20ProductEngineer.pdf) | Publication-grade 10-page PDF formatted strictly to submission instructions. *(Replace `XXXX` with your last 4 phone digits).* |
+| **Submission PDF (Ready)** | [`Assignment/1423 - Ashutosh Kumar Jaiswal - FirstAssignment - ProductEngineer.pdf`](file:///F:/Share_FullStack/Assignment/1423%20-%20Ashutosh%20Kumar%20Jaiswal%20-%20FirstAssignment%20-%20ProductEngineer.pdf) | Publication-grade 10-page PDF formatted strictly to submission instructions. |
 | **Submission PDF (Standard)** | [`Assignment/Assignment - Ashutosh Kumar Jaiswal - FirstAssignment - ProductEngineer.pdf`](file:///F:/Share_FullStack/Assignment/Assignment%20-%20Ashutosh%20Kumar%20Jaiswal%20-%20FirstAssignment%20-%20ProductEngineer.pdf) | Standard named publication PDF. |
 | **Completed Word Document** | [`Assignment/Assignment/Assignment I - Product Engineer - Completed.docx`](file:///F:/Share_FullStack/Assignment/Assignment/Assignment%20I%20-%20Product%20Engineer%20-%20Completed.docx) | Fully populated Microsoft Word `.docx` file matching original template formatting. |
 | **Updated Original Document** | [`Assignment/Assignment/Assignment I - Product Engineer.docx`](file:///F:/Share_FullStack/Assignment/Assignment/Assignment%20I%20-%20Product%20Engineer.docx) | Original document updated with all answers in place. |
@@ -23,9 +23,9 @@
 
 ### 1. Candidate Details
 - **Name:** Ashutosh Kumar Jaiswal
-- **Phone:** +91 [Your 10-Digit Mobile Number]
+- **Phone:** +91 6207151423
 - **Email:** ashutoshhjp00567@gmail.com
-- **LinkedIn Profile URL:** https://www.linkedin.com/in/[your-linkedin-handle]
+- **LinkedIn Profile URL:** https://www.linkedin.com/in/ashutosh-kumar-jaiswal/
 - **GitHub URL:** https://github.com/Ashujais
 
 ---
@@ -161,7 +161,7 @@ Looking forward to launching this together!
 Best regards,  
 **Ashutosh Kumar Jaiswal**  
 Product Engineer  
-ashutoshhjp00567@gmail.com | +91 [Phone Number]
+ashutoshhjp00567@gmail.com | +91 6207151423
 
 ---
 

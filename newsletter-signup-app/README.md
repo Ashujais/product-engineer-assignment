@@ -2,7 +2,7 @@
 ### Reference Implementation for Product Engineer Assignment (Questions 3 & 4)
 
 Built by **Ashutosh Kumar Jaiswal** (`Product Engineer`)  
-GitHub: [https://github.com/Ashujais](https://github.com/Ashujais) | Email: [ashutoshhjp00567@gmail.com](mailto:ashutoshhjp00567@gmail.com)
+GitHub: [https://github.com/Ashujais](https://github.com/Ashujais) | LinkedIn: [https://www.linkedin.com/in/ashutosh-kumar-jaiswal/](https://www.linkedin.com/in/ashutosh-kumar-jaiswal/) | Email: [ashutoshhjp00567@gmail.com](mailto:ashutoshhjp00567@gmail.com) | Phone: `+91 6207151423`
 
 ---
 

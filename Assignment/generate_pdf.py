@@ -198,9 +198,9 @@ def build_pdf(filename):
     
     cand_data = [
         [Paragraph("<b>Name:</b>", meta_label), Paragraph("Ashutosh Kumar Jaiswal", meta_val)],
-        [Paragraph("<b>Phone:</b>", meta_label), Paragraph("+91 [Candidate Phone Number - e.g. 9876543210]", meta_val)],
+        [Paragraph("<b>Phone:</b>", meta_label), Paragraph("+91 6207151423", meta_val)],
         [Paragraph("<b>Email:</b>", meta_label), Paragraph("ashutoshhjp00567@gmail.com", meta_val)],
-        [Paragraph("<b>LinkedIn Profile URL:</b>", meta_label), Paragraph("https://www.linkedin.com/in/[your-linkedin-profile]", meta_val)],
+        [Paragraph("<b>LinkedIn Profile URL:</b>", meta_label), Paragraph("https://www.linkedin.com/in/ashutosh-kumar-jaiswal/", meta_val)],
         [Paragraph("<b>GitHub URL:</b>", meta_label), Paragraph("https://github.com/Ashujais", meta_val)]
     ]
     t_cand = Table(cand_data, colWidths=[140, 364])
@@ -401,7 +401,7 @@ Looking forward to launching this together!<br/><br/>
 Best regards,<br/>
 <b>Ashutosh Kumar Jaiswal</b><br/>
 Product Engineer<br/>
-ashutoshhjp00567@gmail.com | +91 [Phone Number]"""
+ashutoshhjp00567@gmail.com | +91 6207151423"""
 
     t_email = Table([[Paragraph(email_html, body)]], colWidths=[504])
     t_email.setStyle(TableStyle([
@@ -700,5 +700,5 @@ if __name__ == '__main__':
     target_pdf = r'Assignment\Assignment - Ashutosh Kumar Jaiswal - FirstAssignment - ProductEngineer.pdf'
     build_pdf(target_pdf)
     
-    strict_pdf = r'Assignment\XXXX - Ashutosh Kumar Jaiswal - FirstAssignment - ProductEngineer.pdf'
+    strict_pdf = r'Assignment\1423 - Ashutosh Kumar Jaiswal - FirstAssignment - ProductEngineer.pdf'
     build_pdf(strict_pdf)

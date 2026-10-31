@@ -46,9 +46,9 @@ def add_styled_paragraph(cell, text, bold_prefix="", space_after=6, font_size=10
 # 1. Update Candidate Details (Paragraphs 20-24)
 candidate_info = {
     20: "Name: Ashutosh Kumar Jaiswal",
-    21: "Phone: +91 [Candidate Phone Number - e.g. 9876543210]",
+    21: "Phone: +91 6207151423",
     22: "Email: ashutoshhjp00567@gmail.com",
-    23: "LinkedIn Profile URL: https://www.linkedin.com/in/[your-linkedin-profile]",
+    23: "LinkedIn Profile URL: https://www.linkedin.com/in/ashutosh-kumar-jaiswal/",
     24: "Github (or any public Git repositories showing your work) URL: https://github.com/Ashujais"
 }
 
@@ -205,7 +205,7 @@ Looking forward to launching this together!
 Best regards,
 Ashutosh Kumar Jaiswal
 Product Engineer
-ashutoshhjp00567@gmail.com | +91 [Phone Number]"""
+ashutoshhjp00567@gmail.com | +91 6207151423"""
 
 add_styled_paragraph(cell_q4, email_content, "", space_after=4, font_size=9.5)
 
